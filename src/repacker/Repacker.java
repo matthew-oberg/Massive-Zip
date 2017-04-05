@@ -9,7 +9,7 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
 public class Repacker{
-    public static final int TIER = 100, FILE_COUNT = 10;
+    public static final int TIER = 10, FILE_COUNT = 10;
     public static final byte[] FILE_DATA = new byte[1000];
     static{Arrays.fill(FILE_DATA, (byte)'_');}
     public static void main(String[] args) throws Exception{
