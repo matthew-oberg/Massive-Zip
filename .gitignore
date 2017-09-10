@@ -1,0 +1,39 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+#Compiled classes and random artifacts
+target/classes
+target/test-classes
+target/original-*.jar
+target/*-shaded.jar
+
+#Random storage and junk folder
+misc/
+
+#Eclipse files
+.classpath
+.project
+.settings/*
+
+#Mac system files
+.DS_STORE
