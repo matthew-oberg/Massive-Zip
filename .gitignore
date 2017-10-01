@@ -10,14 +10,6 @@
 # Mobile Tools for Java
 .mtj.tmp/
 
-# Package Files
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
 # virtual machine crash logs
 hs_err_pid*
 
@@ -34,6 +26,13 @@ misc/
 .classpath
 .project
 .settings/*
+
+#Netbeans Files
+nbproject/*
+
+#C++ Files
+build/*
+dist/*
 
 #Mac system files
 .DS_STORE
