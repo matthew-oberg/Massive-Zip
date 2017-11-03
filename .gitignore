@@ -33,6 +33,8 @@ nbproject/*
 #C++ Files
 build/*
 dist/*
+.dep.inc
+Makefile
 
 #Mac system files
 .DS_STORE
