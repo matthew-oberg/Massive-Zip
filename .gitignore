@@ -4,12 +4,6 @@
 # Log file
 *.log
 
-#Compiled classes and random artifacts
-target/classes
-target/test-classes
-target/original-*.jar
-target/*-shaded.jar
-
 #Random storage and junk folder
 misc/
 
@@ -17,9 +11,6 @@ misc/
 .classpath
 .project
 .settings/*
-
-#Netbeans Files
-nbproject/*
 
 #Mac system files
 .DS_STORE
