@@ -11,6 +11,7 @@ misc/
 .classpath
 .project
 .settings/*
+bin/*
 
 #Mac system files
 .DS_STORE
