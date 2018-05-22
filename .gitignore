@@ -4,15 +4,6 @@
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java
-.mtj.tmp/
-
-# virtual machine crash logs
-hs_err_pid*
-
 #Compiled classes and random artifacts
 target/classes
 target/test-classes
@@ -29,12 +20,6 @@ misc/
 
 #Netbeans Files
 nbproject/*
-
-#C++ Files
-build/*
-dist/*
-.dep.inc
-Makefile
 
 #Mac system files
 .DS_STORE
